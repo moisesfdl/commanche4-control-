@@ -4,7 +4,7 @@ config control
 # commanche4
 control PC.
 
-http://commanche4.com/documentType/control
+url="www.commanche4.com/"
 
 .comanche(4)
 control_
